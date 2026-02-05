@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  laniricky: {
+    title_color: "00e676",
+    icon_color: "00e676",
+    text_color: "ffffff",
+    bg_color: "0d1117",
+    url_color: "00e676",
+  },
 };
 
 export default themes;
